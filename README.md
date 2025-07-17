@@ -26,3 +26,4 @@ Pianno est une application Android qui transforme votre appareil en un piano vir
 Ou clonez le projet et compilez-le avec Android Studio :
 
 ```bash
+https://github.com/hacker-xioss/pianno-apk.git
